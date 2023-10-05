@@ -35,16 +35,7 @@
 - `Classifier.py` is the main file which is containing a KNN Algorithm.
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 
-## Screenshots
 
-### Movie based Recommendation
-<img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/t1.png">
-
-### Genre based Recommendation
-<img src="https://github.com/Spidy20/Movie_Recommender_App/blob/master/t2.png">
-
-
-## Just follow☝️ me and Star⭐ my repository 
 
 # [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
 ## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
